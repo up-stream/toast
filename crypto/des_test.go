@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/89hmdys/toast/cipher"
-	"github.com/89hmdys/toast/crypto"
+	"github.com/up-stream/toast/cipher"
+	"github.com/up-stream/toast/crypto"
 )
 
 func Test_DES_ECB(t *testing.T) {
