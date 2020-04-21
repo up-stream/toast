@@ -4,8 +4,8 @@ import (
 	"crypto/aes"
 	"crypto/des"
 
-	. "github.com/89hmdys/toast/cipher"
-	"github.com/89hmdys/toast/rsa"
+	. "github.com/up-stream/toast/cipher"
+	"github.com/up-stream/toast/rsa"
 )
 
 /*
